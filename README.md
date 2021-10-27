@@ -1,4 +1,4 @@
-# CS207 Group 4: Final Project Repo
+# CS207 Final Project
 
 [![Build Status](https://travis-ci.com/cs207-project-group4/cs207-FinalProject.svg?branch=master)](https://travis-ci.com/cs207-project-group4/cs207-FinalProject)
 [![Coverage Status](https://img.shields.io/coveralls/github/cs207-project-group4/cs207-FinalProject/master.svg)](https://img.shields.io/coveralls/github/cs207-project-group4/cs207-FinalProject/master.svg)
